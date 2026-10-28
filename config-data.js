@@ -1,0 +1,457 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Maipu alquiler por dia",
+    "short_name": "maipu-alquiler-por-dia",
+    "tagline": "Maipu alquiler por dia - Santa Cruz",
+    "description": "Maipu alquiler por dia, tu alojamiento ideal en Santa Cruz.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Santa Cruz · Maipú 1323",
+    "title_line1": "Hacete de",
+    "title_em": "maipu-alquiler-por-dia",
+    "title_line2": "",
+    "subtitle": "Un hostel con onda en Santa Cruz, pensado para vos."
+  },
+  "location": {
+    "address": "Maipú 1323, Z9400 Río Gallegos, Santa Cruz",
+    "district": "Santa Cruz",
+    "city": "Santa Cruz",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Maipú 1323, Z9400 Río Gallegos, Santa Cruz, Santa Cruz",
+    "map_embed": "https://maps.google.com/maps?q=Maip%C3%BA+1323%2C+Z9400+R%C3%ADo+Gallegos%2C+Santa+Cruz%2C+Santa+Cruz&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Santa Cruz. En el corazón de la ciudad.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5492966537605",
+    "phone": "+5492966537605",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Maipu+alquiler+por+dia/data=!4m10!3m9!1s0xbdb6f9610bd262f1:0x6e0d0bbe7faf1bd9!5m2!4m1!1i2!8m2!3d-51.6322532!4d-69.1986505!16s%2Fg%2F11fmvd5fz5!19sChIJ8WLSC2H5tr0R2Ruvf74LDW4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Maipu+alquiler+por+dia/data=!4m10!3m9!1s0xbdb6f9610bd262f1:0x6e0d0bbe7faf1bd9!5m2!4m1!1i2!8m2!3d-51.6322532!4d-69.1986505!16s%2Fg%2F11fmvd5fz5!19sChIJ8WLSC2H5tr0R2Ruvf74LDW4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Nuestra historia",
+    "title": "Maipu alquiler por dia, tu base en Santa Cruz.",
+    "paragraphs": [
+      "Maipu alquiler por dia es un hostel familiar en Santa Cruz, atendido por sus dueños. Ofrecemos habitaciones privadas y compartidas, WiFi, cocina equipada, pileta y parrilla. Estamos en zona centro, cerca de todo lo que necesitás para recorrer la ciudad."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Te contestamos el mismo día",
+    "Sin cargos extra por Booking ni otros",
+    "Conocemos la zona, te damos la posta"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Espacios para descansar",
+      "description": "Habitaciones pensadas para que descargues baterías.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Conection estable",
+      "description": "WiFi que funciona para laburar y para scrollear.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "En la zona",
+      "description": "Caminando llegás a todo, olvidate del Uber.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Carolina R.",
+      "rating": 5,
+      "text": "Súper recomendable. Te sentís como en casa desde el primer momento. Volveremos sin dudas."
+    },
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    },
+    {
+      "author": "Lucía M.",
+      "rating": 5,
+      "text": "Nos atendieron de diez desde antes de llegar. La ubicación es inmejorable y el ambiente muy copado."
+    },
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Hay cocina para usar?",
+      "answer": "Sí, cocina completa para que te armes lo que quieras."
+    },
+    {
+      "question": "¿Tienen WiFi?",
+      "answer": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+    },
+    {
+      "question": "¿Hay lugar para guardar equipaje?",
+      "answer": "Sí, podés dejar las valijas antes del check-in o después del check-out."
+    },
+    {
+      "question": "¿Desayuno incluido?",
+      "answer": "Depende la época, escribinos y te confirmamos."
+    },
+    {
+      "question": "¿Está cerca del centro?",
+      "answer": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+    }
+  ],
+  "footer": {
+    "description": "Maipu alquiler por dia",
+    "copyright": "© 2026 Maipu alquiler por dia. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Maipu alquiler por dia",
+        "short_name": "maipu-alquiler-por-dia",
+        "tagline": "Maipu alquiler por dia - Accommodation",
+        "description": "Everything you need to travel easy, at Maipu alquiler por dia.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Santa Cruz · Maipú 1323",
+        "title_line1": "Experience",
+        "title_em": "maipu-alquiler-por-dia",
+        "title_line2": "from here",
+        "subtitle": "A chill place to rest in Santa Cruz."
+      },
+      "about": {
+        "eyebrow": "The people behind this",
+        "title": "Discover Maipu alquiler por dia.",
+        "paragraphs": [
+          "Maipu alquiler por dia is located in Santa Cruz, in a quiet and central area. We have clean and equipped rooms, spacious common areas, pool and BBQ. The perfect place to rest after exploring."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Santa Cruz. Steps away from everything you need."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Can I leave my luggage before check-in?",
+          "answer": "Of course! Drop your bags and come back later. We'll keep them safe."
+        },
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "Is the area safe?",
+          "answer": "Yes, it's a quiet neighborhood. Travelers recommend it."
+        },
+        {
+          "question": "Is breakfast included?",
+          "answer": "It depends on the season, message us and we'll confirm."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Someone's always here to help",
+        "No surprises at checkout",
+        "We'll tell you everything you need to know"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        },
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        },
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "Anna M.",
+          "rating": 5,
+          "text": "Beautiful place, close to everything. The hosts helped us with everything we needed."
+        }
+      ],
+      "footer": {
+        "description": "Maipu alquiler por dia",
+        "copyright": "© 2026 Maipu alquiler por dia. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Maipu alquiler por dia",
+        "description": "Maipu alquiler por dia ofrece todo lo que necesitás para tu estadía en Santa Cruz.",
+        "url": "",
+        "telephone": "+5492966537605",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Maipu+alquiler+por+dia/data=!4m10!3m9!1s0xbdb6f9610bd262f1:0x6e0d0bbe7faf1bd9!5m2!4m1!1i2!8m2!3d-51.6322532!4d-69.1986505!16s%2Fg%2F11fmvd5fz5!19sChIJ8WLSC2H5tr0R2Ruvf74LDW4?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Maipú 1323, Z9400 Río Gallegos, Santa Cruz",
+          "addressLocality": "Santa Cruz",
+          "addressCountry": "AR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -51.624107,
+          "longitude": -69.215768
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Espacios para descansar",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Conection estable",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "En la zona",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Hay cocina para usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cocina completa para que te armes lo que quieras."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen WiFi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay lugar para guardar equipaje?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, podés dejar las valijas antes del check-in o después del check-out."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Desayuno incluido?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende la época, escribinos y te confirmamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
